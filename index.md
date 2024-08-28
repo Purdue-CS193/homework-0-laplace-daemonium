@@ -19,8 +19,9 @@ Syntax highlighted code block
 - Quizes and magic words
 - CS
 
-1. Numbered
-2. List
+1. `1st`
+2. _2nd_
+3. **3rd**
 
 **Bold** and _Italic_ and `Code` text
 
